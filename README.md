@@ -7,13 +7,11 @@ Sometimes when reading an article or piece of literature, it can be overwhelming
 ## How it works:
 Insert an article, and a threshold for the number of words you want glossarized. Using nltk, we can get the top n number of words that are the "most complex"
 
-## Note
-This was a solo project during the SacHacks competition and was attempted to be done under 24 hours.
-
-## Current Taske
+## Current Tasks
 - Update the output with a better readable format for the JSON file
 - Apply this value for a front end web application where the user can upload a file for glossarizing
 
 
 # Notes:
+- This was a solo project during the SacHacks competition and was attempted to be done under 24 hours.
 - Glossarize.ipynb showcases the thought process behind the development of the python code, where the final function is showcased in the end. 
